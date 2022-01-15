@@ -1,1 +1,2 @@
-# eks-handbook
+# EKS - Elastic Kubernetes Service
+
